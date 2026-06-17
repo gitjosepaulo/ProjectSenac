@@ -1,0 +1,8 @@
+
+//Reloud
+<script>
+    setTimeout(function() {location.reload();}, 500);
+</script>
+
+
+
